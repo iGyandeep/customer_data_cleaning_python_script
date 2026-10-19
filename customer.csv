@@ -1,0 +1,6 @@
+Customer_ID,First_Name,Last_Name,Mobile_No,Date_of_Birth,Address
+1001,  JOHN,smith,09876543210,1990-05-15,"12 MG Road, Bengaluru, Karnataka"
+1002, priya,SHARMA,9876543210,1985-11-20,"Sector 18, Noida, Uttar Pradesh"
+1003,RAHUL,verma,9123456789,invalid-date,"Connaught Place, New Delhi, Delhi"
+1004,ANITA,,9876501234,1995-03-10,"Mumbai, Maharashtra"
+1005,AMIT,KUMAR,,2000-01-01,"Patna, Bihar"
